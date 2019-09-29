@@ -1,6 +1,6 @@
 ### 每週心得筆記
 
-受大大影響<a href="https://github.com/aszx87410/daily-notes" target="_blank">每日心得筆記挑戰</a>開了這個 weekly notes 希望可以持續
+受大大影響[每日心得筆記挑戰](https://github.com/aszx87410/daily-notes)開了這個 weekly notes 希望可以持續
 
 筆記會依著課綱走
 <br />[程式導師實驗計畫第三期](https://github.com/Lidemy/mentor-program-3rd)
